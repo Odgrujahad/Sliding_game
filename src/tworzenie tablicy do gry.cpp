@@ -15,8 +15,7 @@ void dynamicArray(int** tabela, int kolumny, int wiersze)
 			for (int j=0; j <kolumny ;j++)
 			{
 				tabela[j][i] = 0;
-//				cout << "tab[0][0]"<< tabela[0][0] <<endl;
-//				cout << tabela[j][i] << "  "  << flush ;
+				
 			}
 		}
 		pozX=0;
